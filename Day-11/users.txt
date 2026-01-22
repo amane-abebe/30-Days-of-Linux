@@ -1,0 +1,4 @@
+101:Amane:Admin:Active
+102:John:User:Inactive
+103:Mery:User:Active
+104:Hacker:Guest:Active
