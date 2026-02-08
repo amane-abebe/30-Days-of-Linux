@@ -1,0 +1,7 @@
+4:00 - User admin logged in
+4:05 - Database backup started
+4:10 - Connection from IP 192.168.1.50
+4:15 - Warning : High CPU usage
+4:20 - Database backup finished
+4:25 - Error : Unauthorized login attempt from IP 99.99.99.99 
+
