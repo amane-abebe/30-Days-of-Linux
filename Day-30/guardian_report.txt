@@ -1,0 +1,21 @@
+Report Generated: Fri Feb 13 12:25:33 PM EAT 2026
+CPU/RAM Status:
+               total        used        free      shared  buff/cache   available
+Mem:            3824        3107         305         555        1270         716
+Swap:           4095         250        3845
+/dev/sda5       192G   18G  164G  10% /
+Failed Login Attempts:
+2026-02-11T11:08:16.803024+03:00 amane-Lenovo-ideapad-330-15IKB dbus-daemon[1270]: [session uid=1000 pid=1270] Failed to activate service 'org.xfce.Xfconf': timed out (service_start_timeout=120000ms)
+2026-02-11T11:08:16.835365+03:00 amane-Lenovo-ideapad-330-15IKB dbus-daemon[762]: [system] Failed to activate service 'org.freedesktop.nm_dispatcher': timed out (service_start_timeout=25000ms)
+2026-02-11T11:08:16.836617+03:00 amane-Lenovo-ideapad-330-15IKB dbus-daemon[762]: [system] Failed to activate service 'org.freedesktop.nm_dispatcher': timed out (service_start_timeout=25000ms)
+2026-02-11T11:08:16.839696+03:00 amane-Lenovo-ideapad-330-15IKB dbus-daemon[762]: [system] Failed to activate service 'org.freedesktop.nm_dispatcher': timed out (service_start_timeout=25000ms)
+2026-02-13T12:25:52.968987+03:00 amane-Lenovo-ideapad-330-15IKB sudo:    amane : TTY=pts/5 ; PWD=/home/amane/Linux-Journey/Day-30 ; USER=root ; COMMAND=/usr/bin/grep Failed /var/log/auth.log
+Open Ports:
+tcp   LISTEN 0      4096                        127.0.0.53%lo:53         0.0.0.0:*                                   
+tcp   LISTEN 0      4096                            127.0.0.1:631        0.0.0.0:*                                   
+tcp   LISTEN 0      4096                           127.0.0.54:53         0.0.0.0:*                                   
+tcp   LISTEN 0      511                             127.0.0.1:5195       0.0.0.0:*    users:(("code",pid=2815,fd=36))
+tcp   LISTEN 0      511                             127.0.0.1:38043      0.0.0.0:*    users:(("code",pid=2497,fd=61))
+tcp   LISTEN 0      4096                            127.0.0.1:36481      0.0.0.0:*                                   
+tcp   LISTEN 0      4096                                [::1]:631           [::]:*                                   
+Backup saved to /tmp/backup_day30
